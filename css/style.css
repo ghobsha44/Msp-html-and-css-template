@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:400,500,600,700,800');
+body{
+  font-family:'Dosis', sans-serif;
+}
+/* navigation */
+.list-icon .n-0{
+  padding: 1px 15px 1px 15px;
+  background: #00fff1;
+  color: #213047;
+  font-weight: 400;
+
+}
+
+.list-icon i{
+  height:7px;
+}
+.navbar-nav{
+  font-weight: 500
+
+}
+
+
+
+/* hero */
+.first{
+  background: url("../images/hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment:fixed;
+
+
+}
+
+.two-buttons .n-1{
+  background-color: #00fff1;
+  color: #213047;
+}
+.two-buttons .n-2{
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.text-header{
+  min-height: 60vh;
+}
+
+/* services*/
+.image-container{
+  position: relative;
+}
+.image-mobile{
+  position: absolute;
+  left: 15%;
+  transform: translate(-0%,-48%);
+
+}
+
+/* about*/
+
+.info{
+  background-color: #f5f6fa;
+}
+
+/* post */
+
+.post-infotext .post{
+  background-color: #00fff0;
+}
+
+
+.download-buttons{
+  background-color: #00fff0;
+}
+/* video */
+
+.video{
+  background-image: url("../images/video-baak.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.quote{
+  background-color: #223047
+}
